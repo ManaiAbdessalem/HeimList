@@ -1,0 +1,15 @@
+C:\Users\Becem\Desktop\Heimdal\Heim\Heim\bin\Debug\net6.0\Heim.exe
+C:\Users\Becem\Desktop\Heimdal\Heim\Heim\bin\Debug\net6.0\Heim.deps.json
+C:\Users\Becem\Desktop\Heimdal\Heim\Heim\bin\Debug\net6.0\Heim.runtimeconfig.json
+C:\Users\Becem\Desktop\Heimdal\Heim\Heim\bin\Debug\net6.0\Heim.dll
+C:\Users\Becem\Desktop\Heimdal\Heim\Heim\bin\Debug\net6.0\Heim.pdb
+C:\Users\Becem\Desktop\Heimdal\Heim\Heim\obj\Debug\net6.0\Heim.csproj.AssemblyReference.cache
+C:\Users\Becem\Desktop\Heimdal\Heim\Heim\obj\Debug\net6.0\Heim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Becem\Desktop\Heimdal\Heim\Heim\obj\Debug\net6.0\Heim.AssemblyInfoInputs.cache
+C:\Users\Becem\Desktop\Heimdal\Heim\Heim\obj\Debug\net6.0\Heim.AssemblyInfo.cs
+C:\Users\Becem\Desktop\Heimdal\Heim\Heim\obj\Debug\net6.0\Heim.csproj.CoreCompileInputs.cache
+C:\Users\Becem\Desktop\Heimdal\Heim\Heim\obj\Debug\net6.0\Heim.dll
+C:\Users\Becem\Desktop\Heimdal\Heim\Heim\obj\Debug\net6.0\refint\Heim.dll
+C:\Users\Becem\Desktop\Heimdal\Heim\Heim\obj\Debug\net6.0\Heim.pdb
+C:\Users\Becem\Desktop\Heimdal\Heim\Heim\obj\Debug\net6.0\Heim.genruntimeconfig.cache
+C:\Users\Becem\Desktop\Heimdal\Heim\Heim\obj\Debug\net6.0\ref\Heim.dll
