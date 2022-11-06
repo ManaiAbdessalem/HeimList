@@ -84,6 +84,11 @@ internal class Program
         Console.Read();
     }
 
+    /// <summary>
+    /// Initialize List, Fill datas & display.
+    /// </summary>
+    /// <param name="testname">name of test</param>
+    /// <param name="length">length of the arry</param>
     private static void InitializeTest(string testname, int length)
     {
         Console.WriteLine();
@@ -95,18 +100,28 @@ internal class Program
         DisplayInitialList();
     }
 
+    /// <summary>
+    /// Display the content of List
+    /// </summary>
     private static void DisplayInitialList()
     {
         Console.Write($"Actual list datas : ");
         Console.WriteLine(string.Join("\t", My_list));
     }
 
+    /// <summary>
+    /// Display the content of List after doing action test, with custom message.
+    /// </summary>
+    /// <param name="message"></param>
     private static void DisplayListAfterAction(string message)
     {
         Console.Write(message);
         Console.WriteLine(string.Join("\t", My_list));
     }
 
+    /// <summary>
+    /// Fill data in array
+    /// </summary>
     private static void FillArray()
     {
         for (int i = 0; i < My_list.Count; i++)
